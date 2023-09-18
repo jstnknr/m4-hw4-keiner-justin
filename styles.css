@@ -1,0 +1,52 @@
+body {
+    background-color: rgba(195, 195, 195);
+  }
+  
+  h1 {
+    color: rgb(63, 63, 63);
+    text-align: center;
+    font-family: futura;
+  }
+  h2 {
+    color: rgb(63, 63, 63);
+    text-align: center;
+    font-family: futura;
+  }
+  p {
+    font-family: futura;
+    font-size: 20px;
+    color: rgb(63, 63, 63);
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  ul {
+    font-family: futura;
+    font-size: 20px;
+    color: rgb(63, 63, 63);
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+  div > p {
+    text-align: center;
+  }
+  /* unvisited link */
+a:link {
+    color: rgb(90, 0, 0);
+    font-family: futura;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(255, 112, 112);
+    font-family: futura;
+  }
+  footer {
+    font-family: futura;
+    color: rgb(63,63,63);
+  }
